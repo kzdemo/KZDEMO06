@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" aria-label="KZ">
+  <rect x="4" y="4" width="92" height="92" fill="none" stroke="currentColor" stroke-width="4"/>
+  <path d="M 24 24 L 36 24 L 36 46 L 54 24 L 70 24 L 50 49 L 50 49 L 70 76 L 54 76 L 36 54 L 36 76 L 24 76 Z" opacity="0"/>
+  <text x="50" y="66" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="52" letter-spacing="-2">KZ</text>
+</svg>
